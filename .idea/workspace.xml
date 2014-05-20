@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="837d2210-787f-4578-a438-0ab35418a55e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/One.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ONE/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ONE/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ONE/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ONE/.settings/.jsdtscope" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ONE/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ONE/.settings/org.eclipse.wst.common.component" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ONE/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ONE/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ONE/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ONE/WebContent/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THREE/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THREE/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THREE/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THREE/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THREE/src/three/Three.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THREE/src/three/filetest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TWO/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TWO/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TWO/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TWO/.settings/.jsdtscope" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TWO/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TWO/.settings/org.eclipse.wst.common.component" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TWO/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TWO/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TWO/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TWO/WebContent/META-INF/MANIFEST.MF" afterPath="" />
-    </list>
+    <list default="true" id="837d2210-787f-4578-a438-0ab35418a55e" name="Default" comment="" />
     <ignored path="One.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -198,6 +169,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
@@ -441,7 +413,7 @@
       <workItem from="1400570569971" duration="329000" />
       <workItem from="1400570929235" duration="127000" />
       <workItem from="1400571060872" duration="9000" />
-      <workItem from="1400571074990" duration="810000" />
+      <workItem from="1400571074990" duration="1136000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1400570654619</created>
@@ -455,11 +427,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1275000" />
+    <option name="totallyTimeSpent" value="1601000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="25" width="1028" height="722" extended-state="7" />
-    <editor active="true" />
+    <frame x="-2" y="25" width="1028" height="722" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3221154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
